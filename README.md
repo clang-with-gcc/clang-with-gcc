@@ -6,7 +6,7 @@ I'm Clang.
 
 I love GCC.
 
-- 🔭 I’m currently working on Qv2ray, V2Fly.
+❇ I :heart: Duck Duck too!
 
 <!--
 **clang-with-gcc/clang-with-gcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
