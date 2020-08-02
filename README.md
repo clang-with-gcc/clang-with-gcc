@@ -2,11 +2,13 @@
 
 ### Hi there 👋
 
-I'm Clang.
+I'm Clang | Long March 5 :rocket:.
 
-I love GCC.
+I :heart: GCC.
 
-❇ I :heart: Duck Duck too!
+I :heart: Duck Duck too!
+
+:rocket: :rocket: :rocket:
 
 <!--
 **clang-with-gcc/clang-with-gcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
