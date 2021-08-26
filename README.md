@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+I’m Professor CLANG-WITH-GCC from [HM University](https://github.com/HMUniversity).
+
 I'm Clang | Long March 5 :rocket:.
 
 I :heart: GCC.
